@@ -4,7 +4,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 import ClubDetail from './components/ClubDetail/ClubDetail';
 import NoMatch from './components/NoMatch/NoMatch';
