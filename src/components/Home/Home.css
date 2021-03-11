@@ -1,0 +1,20 @@
+.team-container {
+  width: 70%;
+  
+}
+.team-container img {
+    height: 150px;
+    width: 150px;
+}
+.main-button{
+    margin-bottom: 40px;
+    background-color: lightseagreen;
+    padding: 8px 15px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.set-background {
+    padding-top: 50px;
+    background-color: #95afc0;
+}

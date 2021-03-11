@@ -1,0 +1,10 @@
+.team-detail {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+    width: 300px;
+    margin-bottom: 40px;
+    padding-top: 20px;
+    background: white;
+    text-align: center;
+}
